@@ -16,7 +16,7 @@ document.querySelector(".load").onclick = function() {
     document.querySelector("#loadValue").value = value;
 };
 
-// LOAD
+// UPDATE 
 document.querySelector(".update").onclick = function() {
   key = document.querySelector("#updateKey").value;
     var value = document.querySelector("#updateValue").value;
